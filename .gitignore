@@ -16,3 +16,4 @@ __pycache__/
 # Historical offline promo export depends on another local project.
 export-video.cjs
 video-audio.py
+DEPLOYMENT.md
