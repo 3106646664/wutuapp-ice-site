@@ -1,0 +1,21 @@
+{
+  "mode": "Public runtime mirrored locally, with separately gated personal integration",
+  "anchors": [
+    "class u3 {",
+    "text: \"TEMP\"",
+    "text: \"Sound:\"",
+    "text: \"On\"",
+    "text: \"Off\"",
+    "if (!e.font) throw new Error(\"You must specify a MSDF font.\");\n    (super(),",
+    "text: `D ${this.parent.options.date.replaceAll(\"/\", \".\")}",
+    "base: \"\",\n    routes:",
+    "te(this, Ol, (r) => U(this, tr).format(r === \"\" ? \"/\" : r)),",
+    "new or({\n          map: le.load(`cubes/${this.options.innerobject}_color.ktx2`),\n        })",
+    "tMap: { value: le.load(`${this.options.obj}_dark_color.ktx2`) }",
+    "(this.mesh.name = \"object\"),",
+    "((this.logo = new LF(this)), await this.logo.ready);",
+    "      ));\n  }\n}\nclass HF {",
+    "class jF {",
+    "(await f.ready, f.start(), s(() => !0));"
+  ]
+}

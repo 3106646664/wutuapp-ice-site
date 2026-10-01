@@ -1,0 +1,1 @@
+{"name":"personal-ice-world","private":true,"type":"module","scripts":{"dev":"node server.mjs","start":"node server.mjs","build":"node build.mjs"},"devDependencies":{"@xmldom/xmldom":"^0.9.12","draco3d":"^1.5.7","html2canvas":"^1.4.1","three":"^0.186.1"}}

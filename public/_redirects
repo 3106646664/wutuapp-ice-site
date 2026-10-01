@@ -1,0 +1,3 @@
+/reference /reference.html 200
+/reference/* /reference.html 200
+/portfolio/* /index.html 200

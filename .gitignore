@@ -1,0 +1,18 @@
+node_modules/
+dist/
+logs/
+output/
+research/screenshots/
+research/*verification.json
+.env
+.env.*
+*.pem
+*.key
+*.mp4
+*.webm
+*.tar.gz
+__pycache__/
+*.pyc
+# Historical offline promo export depends on another local project.
+export-video.cjs
+video-audio.py
